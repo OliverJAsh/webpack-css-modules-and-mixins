@@ -1,0 +1,6 @@
+/* Workaround: uncomment */
+/* @value customBlack from "./colors.css"; */
+
+.foo {
+  @mixin blackBackground;
+}

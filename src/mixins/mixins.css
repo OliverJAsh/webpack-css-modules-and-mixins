@@ -1,0 +1,5 @@
+@value customBlack from "../colors.css";
+
+@define-mixin blackBackground {
+  background-color: customBlack;
+}
